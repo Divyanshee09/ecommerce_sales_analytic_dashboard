@@ -25,7 +25,7 @@ An interactive Power BI dashboard designed to analyze sales performance across 7
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](Screenshot_dashboard-overview.png)
+![Dashboard Overview](Screenshots/dashboard-overview.png)
 
 ---
 
